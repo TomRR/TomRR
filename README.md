@@ -17,9 +17,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/tomrr"><img src="https://github-readme-stats.vercel.app/api?username=tomrr&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=14b8a6&text_color=64748b&icon_color=14b8a6&bg_color=171717&hide_border=true&show_icons=true" alt="tomrr's GitHub stats" /></a>
 
-<b>Top Repositories</b>
+<!-- <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/tomrr/setup" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tomrr&repo=setup&title_color=14b8a6&text_color=64748b&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/tomrr/setup" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tomrr&repo=setup&title_color=14b8a6&text_color=64748b&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> -->
 
 <!--
 **TomRR/TomRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
